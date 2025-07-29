@@ -1,0 +1,2 @@
+C:/Users/ThinkPad/Downloads/meal-planner-main/meal-planner-main/android/app/.cxx/Debug/605h6x6m/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/ThinkPad/Downloads/meal-planner-main/meal-planner-main/android/app/.cxx/Debug/605h6x6m/armeabi-v7a/CMakeFiles/rebuild_cache.dir

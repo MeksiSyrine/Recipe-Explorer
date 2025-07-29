@@ -1,0 +1,2 @@
+D:/meal-planner-main/meal-planner-main/android/app/.cxx/RelWithDebInfo/3b5h486n/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/meal-planner-main/meal-planner-main/android/app/.cxx/RelWithDebInfo/3b5h486n/arm64-v8a/CMakeFiles/rebuild_cache.dir
